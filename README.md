@@ -13,3 +13,4 @@ My neovim personal config for development.
 10. Prettier (for JS env formatting) - optional
 11. jsonlint (for JSON linting) - optional
 12. [ripgrep](https://github.com/BurntSushi/ripgrep)
+13. neovim lastest stable version (install from the official page)
