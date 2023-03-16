@@ -10,8 +10,9 @@ My neovim personal config for development.
 7. pip (last version)
 8. stylua (for lua formatting) - optional
 cargo
-clangd
+sudo apt-get install clangd-12 -> sudo update-alternatives --install /usr/bin/clangd clangd /usr/bin/clangd-12 100
 g++-12
+npm i -g vscode-langservers-extracted (jsonls)
 9. cppcheck (for C++ linting) - optional
 10. Prettier (for JS env formatting) - optional
 11. jsonlint (for JSON linting) - optional
