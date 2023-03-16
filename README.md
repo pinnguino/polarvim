@@ -9,6 +9,9 @@ My neovim personal config for development.
 6. node.js (last version)
 7. pip (last version)
 8. stylua (for lua formatting) - optional
+cargo
+clangd
+g++-12
 9. cppcheck (for C++ linting) - optional
 10. Prettier (for JS env formatting) - optional
 11. jsonlint (for JSON linting) - optional
